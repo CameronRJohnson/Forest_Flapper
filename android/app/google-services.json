@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "867104063608",
+    "project_id": "jungle-jumper-7a8d3",
+    "storage_bucket": "jungle-jumper-7a8d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867104063608:android:70c189afd10cf9b5abad8d",
+        "android_client_info": {
+          "package_name": "com.leveltwenty.final_firebase_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7uWEIJX7unzGradQxUKz4KlpTxcjDfZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
